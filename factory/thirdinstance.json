@@ -1,0 +1,9 @@
+{
+	"name": "thirdinstance",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b172177f-8212-4641-a1d1-0ec483a42d1b",
+		"tenantId": "50235424-9b7a-45f5-a0b8-87b31ae4fc43"
+	}
+}
