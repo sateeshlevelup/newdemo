@@ -1,0 +1,9 @@
+{
+	"name": "demoprodenv",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ffb264eb-e8ba-4816-b53e-fe72fab32dbb",
+		"tenantId": "50235424-9b7a-45f5-a0b8-87b31ae4fc43"
+	}
+}
